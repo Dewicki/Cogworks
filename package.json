@@ -27,6 +27,6 @@
     "vite": "^6.4.5"
   },
   "dependencies": {
-    "cog-lang": "file:../../Cog/Cog"
+    "cog-lang": "github:Dewicki/Cog#v0.1.0"
   }
 }

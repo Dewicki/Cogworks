@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.vscode/
+docs/PLAN.pl.md
+
+# Local agent instructions and settings. Kept on disk for the tools that read
+# them, never committed: these are not part of the public repo.
+.claude/
+CLAUDE.md
